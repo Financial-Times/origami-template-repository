@@ -4,9 +4,9 @@
 	"origamiVersion": 1,
 	"keywords": [
 		"template",
-    "agnostic",
-    "universal",
-    "uncut"
+		"agnostic",
+		"universal",
+		"uncut"
 	],
 	"support": "https://github.com/Financial-Times/origami-template-repository/issues",
 	"supportStatus": "active",
